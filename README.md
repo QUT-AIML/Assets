@@ -1,4 +1,4 @@
-# QUT AMS Design Assets & Guidelines
+# QUT AIML Design Assets & Guidelines
 Centralised design assets for QUT AMS — includes official logos, brand colours, and typography guidelines.
 
 ## Colours
